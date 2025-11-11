@@ -44,8 +44,8 @@ The Infected population increases at the beginning, reaches its peak when new in
 
 ### Sensitivity analysis
 <p align="center">
-  <img src="SensitivityAnalysisPeak.png" alt="Peak" width="45%"/>
-  <img src="SensitivityAnalysisTotal.png" alt="Total" width="45%"/>
+  <img src="SensitivityAnalysisPeak.png" alt="Peak" width="50%"/>
+  <img src="SensitivityAnalysisTotal.png" alt="Total" width="50%"/>
 </p>
 As discussed before, **implications for public health interventions** can happen on $\gamma$ or $\beta$. From the sensitivity analysis, to control the pandemic on either peak population or total infections, a lower transmission rate or a higher recovery rate is expected. With $\gamma$ representing the recovery rate, focusing on improving hospitalization, medication, good rest, etc., can help to increase the recovery rate and limit the infection. With $\beta$ representing the transmission rate, applying social distancing, using face masks, and contactless interaction will help to constrain the transmission and control the spread.
 
