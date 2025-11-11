@@ -43,8 +43,8 @@ The Infected population increases at the beginning, reaches its peak when new in
 **Birth/death rate** Introducing birth/death rate into the pandemic model helps to simulate the changes in a more realistic long-term trend. It guarantees new population coming into the Susceptible group. In the SIR model, the population is fixed. When people get infected from susceptible and then finally recover, they will be immune, and no changes will happen. Involving birth/death rate, SEIR mimics the situation that allows the infectious disease to co-exist with people.
 
 ### Sensitivity analysis
-![Sensitivity Analysis -Peak](SensitivityAnalysisPeak.png)
-![Sensitivity Analysis -Total](SensitivityAnalysisTotal.png)
+![Sensitivity Analysis Peak](SensitivityAnalysisPeak.png)
+![Sensitivity Analysis Total](SensitivityAnalysisTotal.png)
 As discussed before, **implications for public health interventions** can happen on $\gamma$ or $\beta$. From the sensitivity analysis, to control the pandemic on either peak population or total infections, a lower transmission rate or a higher recovery rate is expected. With $\gamma$ representing the recovery rate, focusing on improving hospitalization, medication, good rest, etc., can help to increase the recovery rate and limit the infection. With $\beta$ representing the transmission rate, applying social distancing, using face masks, and contactless interaction will help to constrain the transmission and control the spread.
 
 ---
