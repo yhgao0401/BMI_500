@@ -5,16 +5,16 @@
 
 ---
 
-**Disclaimer** Gemini 2.5 Pro was used for HW11 - Question 1, on how to implement ODE solver with scipy.integrate.solve_ivp, and simulation example, suggestion on sensitive analysis, and final code review.
+**Disclaimer** Gemini 2.5 Pro was used for HW11 - Question 1, on how to implement ODE solver with `scipy.integrate.solve_ivp`, and simulation example, suggestion on sensitive analysis, and final code review.
 Beyond consulting the coding suggestion, the author specifically queried how a function works with different parameters and compared the results (e.g. smooth with t_eval or not).
 
-Conversation is available at [https://gemini.google.com/share/2d3f82c65981](https://gemini.google.com/share/2d3f82c65981) or **gemini-chat.2025-11-10.pdf**.
+Conversation is available at [https://gemini.google.com/share/2d3f82c65981](https://gemini.google.com/share/2d3f82c65981) or [**gemini-chat.2025-11-10.pdf**](gemini-chat.2025-11-10.pdf).
 
 ---
 
 ## Overview
 **Question 1** is selected in this homework.  
-Please refer to **`Gao_BMI500_HW11.ipynb`** for detailed code implementation.
+Please refer to [**`Gao_BMI500_HW11.ipynb`**](Gao_BMI500_HW11.ipynb) for detailed code implementation.
 
 ---
 
